@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **studios.syncwave@gmail.com**
 
-- ⚡ Contact for product creation request: **Discord: https://discord.gg/qHqMTfXbcGhow | Mail: request.studios.syncwave@gmail.com**
+- ⚡ Contact for product creation request: **Discord: https://discord.gg/qHqMTfXbcGhow | Mail: studios.syncwave@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
