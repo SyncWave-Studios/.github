@@ -3,9 +3,9 @@
 
 - 👨‍💻 Public projects. [Soon…](Soon…)
 
-- 📫 How to reach me **studios.syncwave@gmail.com**
+- 📫 How to reach me **studios@syncwave.shop**
 
-- ⚡ Contact for product creation request: **Discord: https://discord.gg/qHqMTfXbcGhow | Mail: studios.syncwave@gmail.com**
+- ⚡ Contact for product creation request: **Discord: https://discord.gg/qHqMTfXbcGhow | Mail: studios@syncwave.shop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
