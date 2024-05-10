@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We’re SyncWave Studios</h1>
 <h3 align="center">We develop apps, games, plugins for Minecraft and more.</h3>
 
-- 👨‍💻 Public projects. [Soon…](Soon…)
+- 👨‍💻 Public projects. [https://github.com/SyncWave-Studios/Plugin-Base](Plugin base)
 
 - 📫 How to reach me **studios@syncwave.shop**
 
